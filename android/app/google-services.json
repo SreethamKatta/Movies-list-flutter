@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319519912634",
+    "project_id": "movie-nest-a7026",
+    "storage_bucket": "movie-nest-a7026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319519912634:android:948eba4205926b54d64883",
+        "android_client_info": {
+          "package_name": "com.Sreetham.Movienest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319519912634-aakt74599b8rg9rimq1ap91lfssh0b6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7S1dM1-CZVUxprZ-gIH24LmFgSVn7w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319519912634-aakt74599b8rg9rimq1ap91lfssh0b6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
